@@ -1,6 +1,6 @@
-# Thinking of hosting a web portfolio project?
+# [hosting a web portfolio project?](https://joy-of-coding.github.io/web-hosting/ 'web-hosting')
 
-## Static FrontEnd Hosting:
+## Static FrontEnd Hosting
 
 | **Site**                                                                                                                             | **Terms**    | **Supports** | **Limitations**                  |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------------ | -------------------------------- |
@@ -8,7 +8,7 @@
 | [Netlify](https://www.netlify.com/ 'Build the sites you want with the tools you love')                                               | free?        | ?            | limits of free? until you hit... |
 |                                                                                                                                      |
 
-## BackEnd Dynamic Server:
+## BackEnd Dynamic Server
 
 | **Site**                                                                                                                                                                     | **Terms**               | **Supports**   | **Limitations**                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------- | -------------------------------- |
